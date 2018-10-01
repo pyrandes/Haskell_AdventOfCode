@@ -1,0 +1,1 @@
+Personal repository to learn Haskell utilizing  the "Advent of Code" challenges.
